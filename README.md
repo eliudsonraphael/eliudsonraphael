@@ -28,4 +28,4 @@ de desenvolvimento, entusiasta da tecnologia educacional e transformação digit
 ![Colaboração](https://img.shields.io/badge/Colaboração-darkgreen)
 ![Pensamento Criativo](https://img.shields.io/badge/Pensamento_Criativo-darkgreen)
 ![Liderança](https://img.shields.io/badge/Liderança-darkgreen)
-![Ética](https://img.shields.io/badge/Pensamento_Ética-darkgreen)
+![Ética](https://img.shields.io/badge/Ética-darkgreen)
